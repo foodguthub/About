@@ -20,3 +20,7 @@ We don't stick with any fixed rules, but we have a short **GutHub Manifesto**:
 The project is an experiment in HCI (human-computer interaction) performed beyond the anthropocentric limits while promoting a technologically mediated human-to-bacteria interplay. The goal of the GutHub initiative is to test the usability of a peer-sharing economy and open collaboration to support a local DIY food production in Singapore. 
 
 [Join us!](http://github.com/foodguthub/About/blob/master/Contact)
+
+![guthub_logo_crop](https://cloud.githubusercontent.com/assets/14889513/10266362/fb88ffb4-6a8e-11e5-8575-d32969098221.jpg)
+
+
