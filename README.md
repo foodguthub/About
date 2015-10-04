@@ -21,6 +21,6 @@ The project is an experiment in HCI (human-computer interaction) performed beyon
 
 [Join us!](http://github.com/foodguthub/About/blob/master/Contact)
 
-![guthub_logo_crop](https://cloud.githubusercontent.com/assets/14889513/10266362/fb88ffb4-6a8e-11e5-8575-d32969098221.jpg)
+![![guthub_logo_crop](https://cloud.githubusercontent.com/assets/14889513/10266362/fb88ffb4-6a8e-11e5-8575-d32969098221.jpg)
 
 
