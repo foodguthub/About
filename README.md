@@ -1,6 +1,6 @@
 # About
 
-![![bigg_cat](https://cloud.githubusercontent.com/assets/14889513/10264000/63440902-6a33-11e5-8417-2868eb228867.jpg)](https://cloud.githubusercontent.com/assets/14889513/10264000/63440902-6a33-11e5-8417-2868eb228867.jpg)
+![guthub_logo_crop](https://cloud.githubusercontent.com/assets/14889513/10266362/fb88ffb4-6a8e-11e5-8575-d32969098221.jpg)
 
 
 Fermentation. Some associate it with rot, with decay. But we see beyond. We've seen the benefits it's had on health for the past generations, and we believe in providing that privilege for the generations to come. GutHub is a community of tinkerers and bacteria enthusiasts fermenting our way to better guts. We hope to build some fruitful gut connections and facilitate a community where like-minded people share their passion and discoveries of all-things-fermenting.
@@ -21,6 +21,6 @@ The project is an experiment in HCI (human-computer interaction) performed beyon
 
 [Join us!](http://github.com/foodguthub/About/blob/master/Contact)
 
-![![guthub_logo_crop](https://cloud.githubusercontent.com/assets/14889513/10266362/fb88ffb4-6a8e-11e5-8575-d32969098221.jpg)
+
 
 
