@@ -6,7 +6,7 @@ GutHub is a social platform for online - offline exchanges of fermentation start
 
 In the Hackerspace, we have a [Fermentation Bank](http://github.com/foodguthub/Bank) stuffed with starter cultures for a free sharing. We also make our own tools, such as the Mother 0.1. starter culture incubator or the [UnchopeMakan map](http://www.google.com/maps/d/u/0/edit?mid=zCoDc3SSi24I.korG11Dfhm4A). The [GutHub Github](http://github.com/foodguthub) serves as a scrapbook of recipes, tutorials and other things-to-be-forked around the fermentation theory and practice.
 
-[Join us!](http://github.com/foodguthub/About/blob/master/Contact)
+[Join us!](http://foodguthub.github.io/)
 
 
 
